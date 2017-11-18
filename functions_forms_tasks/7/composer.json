@@ -1,0 +1,6 @@
+{
+  "require":{
+    "twbs/bootstrap": "*"
+  }
+
+}
